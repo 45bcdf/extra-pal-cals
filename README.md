@@ -6,6 +6,7 @@ Custom calendars files I use in my Pal Calendar that might be of use to others.
 Calendar descriptions:
 ----------------------
 leafs.pal: 2021 Toronto Maple Leafs season schedule 
+2023-24_Maple-Leafs-Calendar: 2023-2024 calendar
 
 (more to come)
 
